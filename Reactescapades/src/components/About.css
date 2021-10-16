@@ -1,0 +1,47 @@
+.about-info{
+    line-height: 200%;
+}
+
+.about-info > h1{
+    text-align: center;
+    color: #ebc10a;
+    line-height: 200%;
+}
+
+.article{
+    text-align: center;
+    font-style: italic;
+    font-size: 18px;
+}
+
+.foundedBy{
+    color: #ebc10a;
+    line-height: 200%;
+}
+
+.fstrow{
+    margin-left: 20px;
+}
+.submit{
+    text-align: center;
+}
+
+.lfullname{
+    margin-left: -90px;
+}
+
+.lphone{
+    margin-left: -110px;
+}
+
+.lemailid{
+    margin-left: -92px;
+}
+
+.lmessage{
+    margin-left: -92px;
+}
+
+.message{
+    margin-left: 185px;
+}
